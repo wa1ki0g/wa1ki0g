@@ -1,9 +1,10 @@
-# 👋 Hi, I'm wa1ki0g!
+# 🌟 Hi, I'm wa1ki0g!
 
 
 ## 👨‍💻 About Me:
 - 🎸 Passionate about: Playing electric guitar  
 - 🏞️ Favorite activity: Long-distance hiking with a fully loaded backpack
+- 🕵️ I enjoy: Participating in CTF challenges and vulnerability research  
 
 ---
 
