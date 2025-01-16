@@ -1,7 +1,5 @@
 # 👋 Hi, I'm wa1ki0g!
 
-<img src="https://templates.images.credential.net/1677682410975725023965573912354.png" alt="OSCP Certified" width="150"/>
-
 Welcome to my GitHub profile! 🚀
 
 ---
@@ -12,5 +10,5 @@ Welcome to my GitHub profile! 🚀
 
 ---
 
-## 🛠️ Skills and Certifications:
+## 🛠️ Certifications:
 - <img src="https://templates.images.credential.net/1677682410975725023965573912354.png" alt="OSCP Certified" width="100"/>
