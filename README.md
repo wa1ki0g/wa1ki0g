@@ -1,8 +1,5 @@
 # 👋 Hi, I'm wa1ki0g!
 
-Welcome to my GitHub profile! 🚀
-
----
 
 ## 👨‍💻 About Me:
 - 🎸 Passionate about: Playing electric guitar  
