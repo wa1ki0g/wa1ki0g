@@ -2,9 +2,9 @@
 
 
 ## 👨‍💻 About Me:
-- 🎸 Passionate about: Playing electric guitar  
-- 🏞️ Favorite activity: Long-distance hiking with a fully loaded backpack
-- 🕵️ I enjoy: Participating in CTF challenges and vulnerability research  
+- 🎸 Playing electric guitar  
+- 🏞️ Long-distance hiking with a fully loaded backpack
+- 🕵️ vulnerability research  
 
 ---
 
